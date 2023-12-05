@@ -1,0 +1,592 @@
+---
+title: "Open Source Healthcare:AI, Collaboration & Interactivity"
+author: "Cole Arendt & Phil Bowsher"
+title-slide-attributes: 
+  data-background-color: white
+  data-background-image: _extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-1.png
+  data-background-size: contain
+format:
+  positslides-revealjs: 
+    width: "1600"
+    height: "900"
+    html-math-method: mathjax
+filters:
+  - shinylive
+include-before-body:
+  - _progressbar.html
+---
+
+
+## Free & Open-Source Software...
+
+. . .
+
+For data science, **scientific research**, and technical communication....
+
+. . .
+
+To enhance the **production and consumption of knowledge by everyone**, 
+
+. . .
+
+regardless of **economic means**.
+
+. . .
+
+But what is the model for open source sustainability?
+
+##  {background-image="images/RStudio.png"  background-size="900px 400px"}
+
+## {background-image="images/ide.jpg"}
+
+##  {background-image="images/posit.jpg"}
+
+
+## {background-image="images/towers.jpg"}
+
+. . .
+
+::: {style="margin-top: 300px"}
+
+<h3 style="text-align: center;">Journey Back to 2005</h3>
+
+:::
+
+::: attribution
+Photo credit: <a href="https://unsplash.com/@matthewhenry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matthew Henry</a> on <a href="https://unsplash.com/photos/VviFtDJakYk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## {background-image="images/b2s.png"  background-position="left" background-size="contain"}
+
+## Learning Data Science in 2000s
+
+- Org pays for training
+- You pay for training
+- College offered Commercial Software Training(Rare)
+
+
+## {background-image="images/iu.jpg" background-size="contain"}
+
+## {background-image="images/jeopardy.jpg" background-size="1000px 500px"}
+
+::: attribution
+Harvard Case Study <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=59343">@ <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=59343">hbs.edu</a>
+:::
+
+##  {background-image="images/IBM.png" background-size="1000px 500px"}
+
+
+##  {background-image="images/shiny.jpg" background-size="1000px 500px"}
+
+## 2005-2015: I learned the Importance of:
+
+::: incremental
+
+$$
+\text{Free Open-Source Software} + \text{Free Education}
+$$
+
+
+- AI is tricky
+- Bringing Statistical Computing to the web is empowering
+- Its not about 1 language
+- Support the Industry
+
+:::
+
+# Open Source Software & Sustainability
+
+## Working in Public: The Making and Maintenance of Open Source Software
+
+::: incremental
+
+![](images/osdev.jpg){width=15% alt="Working in Public: The Making and Maintenance of Open Source Software"}
+
+
+- Linus’s Law
+- https://wlandau.github.io/posts/2023-10-04-pace/
+- [Tragedy of the commons](https://devops.com/open-source-software-and-the-tragedy-of-the-commons/)
+- Community Shifts to Sustainability
+- Core-JS
+
+:::
+
+## {background-image="images/virtuous_cycle.png" background-size="contain"}
+
+::: video
+<span style="color:white;"><a href="https://www.youtube.com/watch?v=y_zkI-LkS58">youtube</a></span>
+:::
+
+
+## PBC & Name Change
+
+Posit believes that corporations should be run for the benefit of all of their stakeholders including employees, customers, and the community at large. Consequently, posit is a Delaware Public Benefit Corporation (PBC) and a Certified B Corporation®
+
+::: incremental
+- [PBC](https://www.bcorporation.net/en-us/find-a-b-corp/company/rstudio/)
+- [Open Source Software for Data Science](https://www.youtube.com/watch?v=DskltmWKOVY)
+- [RStudio: 2022 and Beyond](https://www.youtube.com/watch?v=u1Gzxg8Pd08)
+:::
+
+## {background-image="images/hadley.png" background-size="750px 350px" .confetti}
+
+## Python Pandas creator Wes McKinney joins Posit 
+
+- [Building Open Source, Sustainably](https://wesmckinney.com/blog/joining-posit/)
+- "I believe the company’s mantras of technical excellence, sustainable growth, and supporting the public good position it to be a force for progress and innovation in the data science world for many years to come."
+- "As I considered how I could best position myself to continue making an impact in the open source data science ecosystem for a long period of time, the choice was obvious"
+
+## [Shift in Pharma: becoming creators not just consumers](https://insightsengineering.github.io/nest-2023-summeR/resources/NEST_%20Now%20&%20Future.pdf)
+
+📑 **“We compete on the molecules, not the software" - Thomas Neitmann** 📖
+
+
+. . .
+
+-   New Horizon
+-   [Partnerships and collaborations with external partners](https://rconsortium.github.io/submissions-wg/)
+-   Streamlined Workflows
+-   Talent out of university more likely to know open-source programming languages
+-   Latest developments more rapidly
+-   Switch between languages and contexts more easily
+-   Time savings in creating standard TLGs
+-   Time savings in creating customized TLGs
+-   Access to free solutions to support creating a clinical submission
+
+
+##  {background-image="images/pv.png" background-size="contain"}
+
+##  {background-image="images/pvpos.png" background-size="contain"}
+
+##  {background-image="images/pvposw.png" background-size="contain"}
+
+
+# Open Source Training
+
+##  {background-image="images/coursera1.png" background-size="1000px 500px"}
+
+##  {background-image="images/coursera2.png" background-size="1000px 500px"}
+
+##  {background-image="images/bar.png" background-size="1000px 500px"}
+
+. . .
+
+::: attribution
+Photo credit: <a href="https://www.youtube.com/watch?v=Vf301YCxP1Q">Jeff Leek</a> on <a href="https://www.youtube.com/watch?v=Vf301YCxP1Q"> DataTrail</a>
+:::
+
+
+
+## Also:
+::: incremental
+- In-person conf training doesn't scale and is costly
+- Most virtual programs lack Industry content
+- Content is slow to update
+:::
+
+
+## Open Source in Pharma
+
+-  17 Workshops all free, put on by members of the community.
+-  4500 registrations, 76 countries
+-  Credly Credentials for completion.
+
+![](images/credly.png)
+
+
+## R/Pharma Workshop Presenters
+
+:::: {.columns}
+
+::: {.column width="33%"}
+Rich Iannone  
+Ramanathan Perumal  
+Daniel Lee  
+Allison Horst  
+Alexandra Lauer  
+Christina Fillmore  
+Irene Vassallo  
+Lyn Taylor  
+Mega Chiang
+:::
+
+::: {.column width="33%"}
+Nicola Rennie  
+Devin Pastoor  
+Priyanka Gagneja  
+Mutaz Jaber  
+Will Landau  
+Joanna Marques-Barros  
+Daniel Sabanés Bové  
+Doug Kelkhoff
+:::
+
+::: {.column width="33%"}
+Jose Sergio Hleap Lozano  
+Ari Siggaard Knoph  
+Ross Farrugia  
+Dony Unardi  
+Davide Garolini  
+Martin Frigaard  
+Shannon Hagerty  
+Omar ElAshkar
+:::
+
+::::
+
+##  {background-image="images/rochec.png" background-size="1000px 500px"}
+
+- Virtuous Cycle
+
+##  Posit Cloud
+
+. . .
+
+![](images/positcloud.jpg){width=60% alt="Posit Cloud"}
+
+. . .
+
+![](images/pc1.png){width=60% alt="Posit Cloud setup"}
+
+##  {background-image="images/pc2.png" background-size="1000px 500px"}
+
+##  {background-image="images/pcpv.png" background-size="1200px 450px"}
+
+## 2020-2023: I learned the Importance of:
+
+::: incremental
+
+$$
+\text{Free Pharma Open-Source Software} + \text{Free Pharma Education}
+$$
+
+- Managing Infrastruture & Content for Education is hard
+- AI to enhance learning
+- Github provides a wealth of learning content
+- Trainings about "Open-Source" and not just one language
+- The Industry will help create content
+
+:::
+
+
+
+## Pan-Pharma Cross-Collaboration
+
+🌟 **Mission of Bringing Therapies to Patients Faster** 💫
+
+. . .
+
+:::: columns
+::: {.column width="30%"}
+![](images/mom.jpg){.border}
+:::
+::: {.column width="30%"}
+**Shiny for Python:**  
+[https://shinylive.io/py/](https://shinylive.io/py/)
+
+**Shiny for R:**  
+[https://shinylive.io/r/](https://shinylive.io/r/)
+:::
+::::
+
+
+
+
+
+# Current & Future Investments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Option 1: Convert
+
+{shinylive}: Convert local Shiny app to static HTML/CSS/JS/wasm
+
+![](images/convert/‎convert.‎001.png){alt="app.R -&gt; shinylive::export() -&gt; index.html &amp; assets"}
+
+## Option 1: Convert
+
+{shinylive}: Convert local Shiny app to static HTML/CSS/JS/wasm
+
+![](images/convert/‎convert.‎002.png){alt="app.py -&gt; shinylive export -&gt; index.html &amp; assets"}
+
+## Option 1: Convert
+
+Caveat: For browser security reasons, you can't just double-click index.html to run it locally. You need a real web server. Fortunately, both R and Python have one-liners to start a web server for a directory.
+
+<br>
+
+### Shiny for R:
+```r
+> shinylive::export(app_dir="myapp", output_dir="site")
+> httpuv::runStaticServer("site")
+```
+
+<br>
+
+### Shiny for Python:
+```python
+$ shinylive export myapp site
+$ cd site
+$ python -m http.server 8000
+```
+
+## Option 2: Fiddle
+
+Shinylive.io: Write and share Shiny apps directly in the browser
+
+. . .
+
+:::: columns
+::: {.column width="75%"}
+![](images/shinylive.png){.border}
+:::
+::: {.column width="25%"}
+**Shiny for Python:**  
+[https://shinylive.io/py/](https://shinylive.io/py/)
+
+**Shiny for R:**  
+[https://shinylive.io/r/](https://shinylive.io/r/)
+:::
+::::
+
+## Option 2: Fiddle
+
+Shinylive.io: Write and share Shiny apps directly in the browser
+
+* View and run examples
+* Create your own apps
+* Share via URL
+* Save to GitHub gist
+
+## Option 3: Include
+
+[Shinylive Quarto extension](https://github.com/quarto-ext/shinylive): Static Shiny apps as Quarto code chunks
+
+````{.r}
+```{shinylive-r}
+#| standalone: true
+
+ui <- ...
+
+server <- function(input, output, session) {
+  ...
+}
+
+shinyApp(ui, server)
+```
+````
+
+## Option 3: Include
+
+[Shinylive Quarto extension](https://github.com/quarto-ext/shinylive): Static Shiny apps as Quarto code chunks
+"I think the students really appreciate seeing it in action, since it’s such a tricky concept to grasp." --Erin Howard, Oregon State University
+
+# Not just cheaper
+
+## {background-image="images/IBM_7010.jpg" background-size="contain"}
+
+::: sr-only
+Mainframe computer
+:::
+
+::: attribution
+Photo credit: [Norsk Teknisk Museum](https://digitaltmuseum.org/011015240045/22-0-ibm-diverse-maskiner), CC BY-SA 4.0
+:::
+
+## {background-image="images/DEC_PDP-8-e.jpg" background-size="contain"}
+
+::: sr-only
+Minicomputer
+:::
+
+::: attribution
+Photo credit: Florian Schäffer, CC BY-SA 4.0, via Wikimedia Commons
+:::
+
+## {background-image="images/IBM_PC.jpg" background-size="contain"}
+
+::: sr-only
+IBM PC
+:::
+
+::: attribution
+Photo credit: <a href="https://unsplash.com/@bertsz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">bert b</a> on <a href="https://unsplash.com/photos/Zd6PL6PSW5E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## {background-image="images/iphone.jpg" background-size="fill"}
+
+::: sr-only
+iPhone
+:::
+
+::: attribution
+Photo credit: <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/photos/tvzykmBf3r0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## {background-image="images/airtag.jpg" background-size="fill"}
+
+::: sr-only
+AirTag on keychain
+:::
+
+::: attribution
+Photo credit: <a href="https://unsplash.com/@eddiepipocas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eddie Pipocas</a> on <a href="https://unsplash.com/photos/wxQavhHf4J4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::
+
+## New uses for Shiny
+
+Shiny for Python tutorial is all shinylive
+
+![](images/scenario1.png){.border alt="A tutorial page, featuring text plus an editor pane and Shiny app preview"}
+
+## New uses for Shiny
+
+Shiny for Python function reference docs embed example apps
+
+![](images/scenario2.png){.border alt="A function reference page, showing running Shiny app examples"}
+
+## New uses for Shiny
+
+pkgdown sites for R could use Shiny apps to demonstrate package functionality (hypothetically)
+
+![](images/gt-pkgdown.png){.border alt="The documentation website for the gt package for R" width="700px"}
+![](images/gt-pkgdown2.png){.border alt="Another screenshot of gt documentation" width="700px"}
+
+## New uses for Shiny
+
+An R Consortium working group and the FDA are [exploring the possibility](https://rconsortium.github.io/submissions-pilot4/minutes/2023-08-04/) of WebR and Shinylive as a way to include reproducible reports and apps in clinical study reports.
+
+## New uses for Shiny
+
+Your turn!
+
+::: incremental
+- Could your next **presentation** be more compelling with some interactivity?
+- Could your **lecture notes** lead to deeper understanding if they had interactive examples?
+- Would your **blog posts** be more powerful if they featured interactive apps?
+- Could you **bewilder** your students with a random game of [Hangman](https://shinylive.io/py/editor/#code=NobwRAdghgtgpmAXGKAHVA6VBPMAaMAYwHsIAXOcpMAMwCdiYACAZwAsBLCbJjmVYnTJMAgujxM6lACZw6EgK4cJUqITIcAbnAA6EPgKGSoEaYz0HBwlmTpcA5nvqMmbE-ZgmaCiIV78rV3dPCD0ACREAOQBxAFkogAUASQBhAGUmAF4mYAByfL0mJgBqAFpy4sKmAB8imqq6+ohGouqGurbmls7M3r6+-NyJQaqyiqra1qqAeQ72qa7Gzpam-rXB4YKusdLKrsmmotmF1rnFs5WetYH8zdzR8t2Ji6Zjw4B6A+Xu+dXr3o2TBG20ee1OJ1eF0+Oh0EKWvyu-0BwKKOzBNReb2W0NhH3h5wW-wBtyBW1RoOeEKxhRxJ3eTBhcLORMygwAunpOdB0AB9JRZJhKLBQexwHk0AA2SmkAAp2kKuKgFGQeWoNKQeQAjZVkUhysD2Yg6fAMsAJAAyIgAmkwIjF4pFjQBKPDyjgYYjKpUqigADxV2jomqgGhg+pCztd5yFnrI3p5foDcmDof1ZH9kYaeidXL0shorDkgZliuVElj3okLDgLBYHFITsQ7QA7oJpALVOotHAMAA1KBSuD653tCVwMgUOgsHn2BQ16vt7KdjTaPsDucy4BsnPnNwQewduBq7trwcy0oARh3jRYxAl2kXkiPXdX-bPADEB9Xr3VpBw4I+y4nm+G6fhK37tO0AACQGrgAojQNBwOoMo-kUMHPiuPZwNo5AlhA3oYIaaFMPmTA8qhTYEnUrZ0NILACsAxpJLkzDaiw2AYMaEjGlacAShKxDNkwABCdiEAA1kwABKxBQNI3GmkkTDmsQ2hMFanqKca0yagAVshwjTHYlAUO2CQMPYdCwDADjGhy1FFLR0gYNWZAytZpiMBghBsMQHCEEOzksE6JGNGOE5yNOs7zgBrnjpu26-EUe72PF7kAAxhXUQpSDAalikoMrVmO6iCAKxp-poiBuCwMoAHxMAAxBFk45mALrJYK7pcNWQh8hwcqOS0CoEcqCZwP6+qtXI2lgOa46TkwAAqxBMNEc61pmw03vxhmCJkxpNemZDcV1jTNmwchwIdKA0JOcGmGdw07tBsE9ghSEoSRGHHquOGmfhhEzXQJFkRRjZdRKAog9Fm0LkRCXZUUHAFqWZAYCDqG8M0Nh2PuGBQCwhAcBwPKCc2ciEETcBMOV6OY4tcjY1wrC2A4hPE6TfLoFTNNUSsKwSoTvOmEDyqM5FdCoRgCi89LoXnXUsMzvDcVuTKErIy0qM48DTMK7L8vYxAxDCKzzmI+5TpG6gzOQztgtsAKqVW6hSsrM7xTZBeHstK7GtsNrgtMKg+PuUHfuNGHXDucajylCOjsrDHeFjhAMp2nEiSpGkivJzrBbO-V2Tp5nUTZ5EyTpE6l4CyHDdFLlcD5doA3FXtZV0BVYBVTVRMNc1IPtZ1Bch6NfUqkVUeN91WD6la0wAKoqdMaRwQAhNts874WpW6t32RHSdz277Pl3XT3UD3XIj0KWAM8rMHZ8MqEb8h1BFbKl1GGmHIGCJi6mREIlE-ZSDIAoOgGcs4OmrmkYArtRTWySgXH+X9TrDV-rIOgADJoYJDmRE6oCC7CWyJbJB7sC6xhdsEEwMpUBsGstWAUzYJAqxirWACMMDZw1ii5Ch+cd662ob0JgzZ65n2bq3Qqg0Sr7UPqaPutVB4tQNiPKML8569TkFPQaj8RrulQAvZeTAADq0xIhbw6hozRdQ5Fdx7sdDM+B9EXSulIK+N86B32NPo5+RR+LVgkbvIUctpAhjFImaaBtFKaHXLTI+D8OpgPHJAjOsZXpvzQKgAUYgjHZIGlWIscgdxgAAL54HANAeA1BUohG8L4LAuACAkHIKZagZE6l0IYUwuAbCeGqz4Q7RoIjTS+PODQemONjD7iHGXHpNNQrBKEQWBZ1ZgAcDZNMpiYBTQ8TAPcE08c5pcSOS4sAbJlkv2od7UOjCaYbIcpo-ius1lwEebbe20z2Fq2kFcs+NzshvMefowJcB-m70BaaHk4zGjgLSTKDJehylsiAA) in the middle of their homework?
+:::
+
+## Recap
+
+* **Convert**: Use the {shinylive} package to convert app.R/app.py to static HTML
+* **Fiddle**: Visit [https://shinylive.io/py/](https://shinylive.io/py/) or [https://shinylive.io/r/](https://shinylive.io/r/) to start writing and running Shiny apps in the browser
+* **Include**: Use quarto-shinylive to embed Shiny apps in Quarto documents, presentations, and websites
+
+
+## Limitations
+
+- Slower startup time, larger download size
+  - Especially bad for R right now, fixes coming very soon
+- Not all of CRAN or PyPI is available
+- Some functions just don't work (R: `system()` and `{future}`, Python: `multiprocessing`)
+- Can't connect directly to databases (but API calls may work)
+- Code/data is fully visible to users
+
+## Thank you!
+
+Copy of these slides, and links to next steps:  
+[https://bit.ly/shinylive-2023](https://bit.ly/shinylive-2023)
+
+![](images/qrcode.png){alt="QR code to the same link as above" style="position: absolute; right: 0;"}
+
+```{=html}
+<style>
+.border {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+.attribution {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+  font-size: 1.25rem;
+  background-color: white;
+  padding: 5px;
+  border: 2px solid #ccc;
+}
+.attribution p {
+  margin: 0;
+}
+.sr-only {
+  text-indent: -999999px;
+}
+pre code.sourceCode {
+  font-size: 1.7em;
+}
+[data-engine] div.shinylive-wrapper {
+  margin: 0;
+}
+.reveal .shinylive-wrapper iframe {
+  max-width: unset;
+  max-height: unset;
+}
+</style>
+```
+<script src="js/tsparticles.confetti.bundle.min.js"></script>
+<script>
+setTimeout(() => {
+  Reveal.on("slidechanged", event => {
+    if (event.currentSlide.matches(".bw-bg")) {
+      event.currentSlide.slideBackgroundElement.style.filter = "grayscale(100%)";
+    }
+    if (event.currentSlide.matches(".bw-to-color-bg")) {
+      event.currentSlide.slideBackgroundElement.style.filter = "grayscale(100%)";
+      event.currentSlide.slideBackgroundElement.style.transition = "filter 500ms ease-in-out";
+      setTimeout(() => {
+        event.currentSlide.slideBackgroundElement.style.filter = null;
+      }, 100);
+    }
+
+    if (event.currentSlide.matches(".confetti")) {
+      const duration = 3 * 1000,
+        animationEnd = Date.now() + duration,
+        defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
+
+      function randomInRange(min, max) {
+        return Math.random() * (max - min) + min;
+      }
+
+      const interval = setInterval(function() {
+        const timeLeft = animationEnd - Date.now();
+
+        if (timeLeft <= 0) {
+          return clearInterval(interval);
+        }
+
+        const particleCount = 50 * (timeLeft / duration);
+
+        // since particles fall down, start a bit higher than random
+        confetti(
+          Object.assign({}, defaults, {
+            particleCount,
+            origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
+          })
+        );
+        confetti(
+          Object.assign({}, defaults, {
+            particleCount,
+            origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
+          })
+        );
+      }, 250);
+    }
+  });
+}, 2000);
+</script>

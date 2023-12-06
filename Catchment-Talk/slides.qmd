@@ -372,6 +372,7 @@ $$
 - IT and Data Scientists Working Together
 :::
 ::: {.column}
+![](images/copilot-gif.gif)
 :::
 
 ::::
@@ -381,9 +382,11 @@ $$
 :::: columns
 ::: {.column}
 
+### Communicate Clearly!
+
 - Turn Data into an Interactive Experience
 
-- Closer to Business
+- Closer to Business / Customer
 
 - Closer to Impact
 
@@ -391,7 +394,7 @@ $$
 
 :::
 ::: {.column}
-
+![](images/shiny-flow.png)
 :::
 ::::
 
@@ -399,6 +402,12 @@ $$
 
 :::: columns
 ::: {.column}
+
+- Reduce time-to-build
+
+- Still leverage code-based tools
+
+- Pretty UI
 
 :::
 ::: {.column}
@@ -408,6 +417,11 @@ $$
 
 ## Reproducible Research
 
+:::: columns
+::: {.column}
+
+Tools to Communicate Research
+
 - Quarto
 
   - Markdown
@@ -415,11 +429,51 @@ $$
   - Language Agnostic
   - Various Output Formats
 
-- Books, Papers, Websites
+:::
+::: {.column}
 
-- Notebooks, Dashboards
+![](images/what-is-quarto.png)
 
+:::
+::::
+
+## Reproducible Research - Open
+
+:::: columns
+::: {.column}
+
+Same Content. Many Mediums
+
+Open Source!
+
+- Books
+- Papers
+- Websites
+
+:::
+::: {.column}
+
+![](images/qmd-how-it-works.png)
+
+:::
+::::
+
+## Reproducible Research - Interactive
+
+:::: columns
+::: {.column}
+
+- Notebooks
+- Dashboards
 - Interactivity
+
+:::
+::: {.column}
+
+![](images/stock-explorer-dashboard.png)
+
+:::
+::::
 
 ## It's About the People
 
@@ -436,6 +490,7 @@ $$
 
 
 
+# Archive
 
 ## Option 1: Convert
 

@@ -1,12 +1,12 @@
 ---
 title: "Open Source Healthcare:AI, Collaboration & Interactivity"
 author: "Cole Arendt & Phil Bowsher"
-title-slide-attributes: 
+title-slide-attributes:
   data-background-color: white
   data-background-image: _extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-1.png
   data-background-size: contain
 format:
-  positslides-revealjs: 
+  positslides-revealjs:
     width: "1600"
     height: "900"
     html-math-method: mathjax
@@ -25,7 +25,7 @@ For data science, **scientific research**, and technical communication....
 
 . . .
 
-To enhance the **production and consumption of knowledge by everyone**, 
+To enhance the **production and consumption of knowledge by everyone**,
 
 . . .
 
@@ -130,7 +130,7 @@ Posit believes that corporations should be run for the benefit of all of their s
 
 ## {background-image="images/hadley.png" background-size="750px 350px" .confetti}
 
-## Python Pandas creator Wes McKinney joins Posit 
+## Python Pandas creator Wes McKinney joins Posit
 
 - [Building Open Source, Sustainably](https://wesmckinney.com/blog/joining-posit/)
 - "I believe the company’s mantras of technical excellence, sustainable growth, and supporting the public good position it to be a force for progress and innovation in the data science world for many years to come."
@@ -199,36 +199,36 @@ Photo credit: <a href="https://www.youtube.com/watch?v=Vf301YCxP1Q">Jeff Leek</a
 :::: {.columns}
 
 ::: {.column width="33%"}
-Rich Iannone  
-Ramanathan Perumal  
-Daniel Lee  
-Allison Horst  
-Alexandra Lauer  
-Christina Fillmore  
-Irene Vassallo  
-Lyn Taylor  
+Rich Iannone
+Ramanathan Perumal
+Daniel Lee
+Allison Horst
+Alexandra Lauer
+Christina Fillmore
+Irene Vassallo
+Lyn Taylor
 Mega Chiang
 :::
 
 ::: {.column width="33%"}
-Nicola Rennie  
-Devin Pastoor  
-Priyanka Gagneja  
-Mutaz Jaber  
-Will Landau  
-Joanna Marques-Barros  
-Daniel Sabanés Bové  
+Nicola Rennie
+Devin Pastoor
+Priyanka Gagneja
+Mutaz Jaber
+Will Landau
+Joanna Marques-Barros
+Daniel Sabanés Bové
 Doug Kelkhoff
 :::
 
 ::: {.column width="33%"}
-Jose Sergio Hleap Lozano  
-Ari Siggaard Knoph  
-Ross Farrugia  
-Dony Unardi  
-Davide Garolini  
-Martin Frigaard  
-Shannon Hagerty  
+Jose Sergio Hleap Lozano
+Ari Siggaard Knoph
+Ross Farrugia
+Dony Unardi
+Davide Garolini
+Martin Frigaard
+Shannon Hagerty
 Omar ElAshkar
 :::
 
@@ -281,10 +281,10 @@ $$
 ![](images/mom.jpg){.border}
 :::
 ::: {.column width="30%"}
-**Shiny for Python:**  
+**Shiny for Python:**
 [https://shinylive.io/py/](https://shinylive.io/py/)
 
-**Shiny for R:**  
+**Shiny for R:**
 [https://shinylive.io/r/](https://shinylive.io/r/)
 :::
 ::::
@@ -293,10 +293,137 @@ $$
 
 
 
-# Current & Future Investments
+# Where is The World Going?
 
+## Where Has the World Been?
 
+![](images/hype-timeline.png){alt="Hype Timeline"}
 
+## Recurring Themes
+
+![](images/hype-cycle.png){alt="Gartner Hype Cycle"}
+
+## Artificial Intelligence (AI)
+
+:::: columns
+::: {.column width=50%}
+- Armageddon?
+
+- Chicken Little / Sky is Falling?
+
+- No Industry Left Un-Touched?
+
+:::
+::: {.column width=50%}
+
+![](images/ai-robot.jpg)
+
+:::
+::::
+
+## AI - Generative
+
+:::: columns
+::: {.column width=50%}
+
+![](images/neural-net.jpg)
+
+:::
+::: {.column width=50%}
+- Images, Text, Code, etc.
+
+- Large Language Models (LLMs)
+- OpenAI
+- ChatGPT
+
+:::
+::::
+
+## AI - Classification & Open Source
+
+:::: columns
+::: {.column}
+- Classification
+
+    - Medical Imaging
+    - Image Detection
+    - Self-Driving Cars
+
+- Open Source
+
+    - [HuggingFace](https://huggingface.co/) ![](images/hugging-face-logo.svg)
+    - [Llama2](https://ai.meta.com/llama/#inside-the-model)
+:::
+::: {.column}
+
+![](images/lightbulb-sticky.jpg)
+
+:::
+::::
+
+## AI - Productivity
+
+:::: columns
+::: {.column}
+- Helping With Productivity
+
+- Using GPUs
+
+- IT and Data Scientists Working Together
+:::
+::: {.column}
+:::
+
+::::
+
+## Interactive Data Science
+
+:::: columns
+::: {.column}
+
+- Turn Data into an Interactive Experience
+
+- Closer to Business
+
+- Closer to Impact
+
+- Accessible Regardless of Means
+
+:::
+::: {.column}
+
+:::
+::::
+
+## Interactive Data Science - UI Editor
+
+:::: columns
+::: {.column}
+
+:::
+::: {.column}
+[![](images/shiny-ui-editor.jpeg)](https://shiny.posit.co/blog/posts/shinyuieditor-out-of-alpha/)
+:::
+::::
+
+## Reproducible Research
+
+- Quarto
+
+  - Markdown
+  - Scientific and Technical Computing
+  - Language Agnostic
+  - Various Output Formats
+
+- Books, Papers, Websites
+
+- Notebooks, Dashboards
+
+- Interactivity
+
+## It's About the People
+
+![](images/open-source-people.png){alt="Open Source And People"}
 
 
 
@@ -354,10 +481,10 @@ Shinylive.io: Write and share Shiny apps directly in the browser
 ![](images/shinylive.png){.border}
 :::
 ::: {.column width="25%"}
-**Shiny for Python:**  
+**Shiny for Python:**
 [https://shinylive.io/py/](https://shinylive.io/py/)
 
-**Shiny for R:**  
+**Shiny for R:**
 [https://shinylive.io/r/](https://shinylive.io/r/)
 :::
 ::::
@@ -498,7 +625,7 @@ Your turn!
 
 ## Thank you!
 
-Copy of these slides, and links to next steps:  
+Copy of these slides, and links to next steps:
 [https://bit.ly/shinylive-2023](https://bit.ly/shinylive-2023)
 
 ![](images/qrcode.png){alt="QR code to the same link as above" style="position: absolute; right: 0;"}

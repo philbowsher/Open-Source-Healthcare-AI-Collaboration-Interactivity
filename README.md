@@ -1,25 +1,17 @@
 # Open-Source-Healthcare-AI-Collaboration-Interactivity
 Talk at Catchment Area Data Conference - Beyond Definition
-This repository contains the slides for the talk "Open Source Healthcare: AI, Collaboration & Interactivity" given by Cole Arendt & Phil Bowsher  at `Catchment Area Data Conference - Beyond Definition` in Richmond, VA.
+This repository contains the slides for the keynote talk "Open Source Healthcare: AI, Collaboration & Interactivity" given by Cole Arendt & Phil Bowsher  at `Catchment Area Data Conference - Beyond Definition` in Richmond, VA.
 
 ## Slides
 
-[) (warning: many, many megabytes)
+https://colorado.posit.co/rsc/open-source-healthcare/slides.html#/title-slide
 
 ## Next steps
 
-### For R
+Cancer-Geospatial-Shiny-Workshop-Catchment-Area-Data-Conference
 
-- **Convert** Shiny apps to static websites: [{shinylive for R}](http://github.com/posit-dev/r-shinylive)
-- **Write, run, and share** Shiny apps right in the browser: [https://shinylive.io/r/](https://shinylive.io/r/)
-- **Include** Shiny apps in Quarto docs: [Shinylive Quarto extension](https://github.com/quarto-ext/shinylive)
-
-### For Python
-
-- **Convert** Shiny apps to static websites: [{shinylive for Python}](http://github.com/posit-dev/py-shinylive)
-- **Write, run, and share** Shiny apps right in the browser: [https://shinylive.io/py/](https://shinylive.io/py/)
-- **Include** Shiny apps in Quarto docs: [Shinylive Quarto extension](https://github.com/quarto-ext/shinylive)
+https://github.com/philbowsher/Cancer-Geospatial-Shiny-Workshop-Catchment-Area-Data-Conference
 
 ## Questions?
 
-File an issue in the appropriate GitHub repo, or [join the Shiny community on Discord](https://discord.gg/yMGCamUMnS).
+File an issue in the appropriate GitHub repo, or [message me on LI](https://www.linkedin.com/in/philip-bowsher-67151015/).

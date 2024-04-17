@@ -8,6 +8,10 @@ https://colorado.posit.co/rsc/open-source-healthcare/slides.html#/title-slide
 
 ## Next steps
 
+Association of American Cancer Institutes CARDS Webinar: Communicating Catchment Area Data Using R (https://www.aaci-cancer.org/News-CARDS-Webinar-Communicating-Catchment-Area-Data-Using-R)
+
+https://colorado.posit.co/rsc/cancer-center-data-science/slides.html#/title-slide
+
 Cancer-Geospatial-Shiny-Workshop-Catchment-Area-Data-Conference
 
 https://github.com/philbowsher/Cancer-Geospatial-Shiny-Workshop-Catchment-Area-Data-Conference
